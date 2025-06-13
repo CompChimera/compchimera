@@ -1,4 +1,4 @@
-# Brittany kelly 
+# Brittany
 ## Hi!👋
 I'm Brittany - a creative Software Developer with experience in CMS development and Marketing Sass Development. Passionate about problem-solving and collaborating between business, design, and development teams to bring concepts to life.
 
