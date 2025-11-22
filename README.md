@@ -1,6 +1,6 @@
 # Brittany
 ## Hi!👋
-I'm Brittany - a creative Software Developer with experience in CMS development and Marketing Sass Development. Passionate about problem-solving and collaborating between business, design, and development teams to bring concepts to life.
+I'm Brittany - a creative Software Developer with experience in CMS development and Marketing SASS Development. Passionate about problem-solving and collaborating between business, design, and development teams to bring concepts to life.
 Currently helping agencies and small businesses with their tech hurdles at [Beaming Kit Tech](https://beamingkit.com). 
 
 ## 🛠️Career
@@ -14,7 +14,8 @@ Sharing knowledge is also a large part of my career. I've had the opportunity to
 - 🌐 Personal Website: [Computational Chimera](http://computationalchimera.ca/)
 - 🌐 Business Website - Available for work! [Beaming Kit Tech](https://beamingkit.com)
 - 🔭 I’m currently working on ...
-  - Invoice Helper - Python App
+  - Invoice Helper - Python / Flask App
+  - Media Diary - React and NodeJS book / tvshow/ movie tracker
   - Web Dev portfolio
 - ⚡ Fun fact: I can be found drawing or doing aerial circus in my spare time. It's a dream to perform someday.
 
